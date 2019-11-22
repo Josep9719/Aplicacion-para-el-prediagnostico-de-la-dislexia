@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    },
+    "cordova-pdf-generator": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.dislex.dislexia"
+    }
+  },
+  "dependent_plugins": {}
+}
